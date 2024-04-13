@@ -4,7 +4,7 @@ Made by [@calvink19](https://github.com/calvink19)! Go check him out!
 
 ***
 
-###### ***This is not an official account.***
+###### ***This is not an official account. Any complaints should be emailed to [yt.calvin.coolest@gmail.com](mailto:yt.calvin.coolest@gmail.com).***
 <!--
 **modmyi/modmyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
