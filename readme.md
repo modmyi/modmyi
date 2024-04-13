@@ -1,6 +1,10 @@
 ### Add the repo at [https://modmyi.github.io](https://modmyi.github.io).
 
 Made by [@calvink19](https://github.com/calvink19)! Go check him out!
+
+***
+
+###### ***This is not an official account.***
 <!--
 **modmyi/modmyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
