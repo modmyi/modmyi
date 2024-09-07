@@ -1,6 +1,6 @@
-### Add the repo at [https://modmyi.github.io](https://modmyi.github.io).
+### Add the repo at [http://calvink19.co/modmyi](http://calvink19.co/modmyi).
 
-Made by [@calvink19](https://github.com/calvink19)! Go check him out!
+This was going to be hosted on GitHub, however a few days before release GitHub repositories stopped working.
 
 ***
 
