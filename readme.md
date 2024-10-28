@@ -1,10 +1,8 @@
-### Add the repo at [http://calvink19.co/modmyi](http://calvink19.co/modmyi).
-
-This was going to be hosted on GitHub, however a few days before release GitHub repositories stopped working.
+### Add the repo at [http://modmyi.github.io](http://modmyi.github.io).
 
 ***
 
-###### ***This is not an official account.***
+###### ***This is not an official ModMyi account. It is ONLY a rehost of the original repository.***
 <!--
 **modmyi/modmyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
