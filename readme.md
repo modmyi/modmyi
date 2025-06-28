@@ -1,3 +1,12 @@
+
+This account was originally created in order to host the ModMyi backup repository. However, I (calvink19) managed to sort out troubles with my web domain and instead hosted it at `calvink19.co/modmyi`. Two months before the official repository came back online, I moved the repository to `apt.calvink19.uk/modmyi`, where it's still up today, if needed.
+
+This backup repository is NOT needed anymore as the official repository is re-hosted by Saurik.
+
+If you like preservation, please feel free to check out `calvink19.co/repo`, which has a list of a bunch of my repositories with older tweaks hosted.
+
+Original description:
+
 ### Add the repo at [http://modmyi.github.io](http://modmyi.github.io).
 
 ***
